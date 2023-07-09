@@ -1,0 +1,10 @@
+settings.py
+.idea/
+1bot.py
+__pycache__/
+bot3.py
+database.db
+main.py
+requirements.text
+venv/
+
